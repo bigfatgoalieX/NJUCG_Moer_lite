@@ -33,7 +33,27 @@ bool Disk::rayIntersectShape(Ray &ray, int *primID, float *u, float *v) const {
         return hit;
     }
     // 角度检查
-    float phi = atan(hit_point[1]/hit_point[0]);
+    float abs_phi = atan(abs(hit_point[1]/hit_point[0]));
+    float base = 0;
+    float phi = 0;
+
+    if(hit_point[0] >= 0 && hit_point[1] >= 0){
+        base = 0;
+        phi = base + abs_phi;
+    }
+    else if(hit_point[0] < 0 && hit_point[1] > 0){
+        base = 0.5*PI;
+        phi = base + (0.5*PI - abs_phi);
+    }
+    else if(hit_point[0] <= 0 && hit_point[1] <= 0){
+        base = PI;
+        phi = base + abs_phi;
+    }
+    else{
+        base = 1.5*PI;
+        phi = base + (0.5*PI - abs_phi);
+    }
+
     if(phi > phiMax){
         return hit;
     } 
@@ -53,17 +73,25 @@ bool Disk::rayIntersectShape(Ray &ray, int *primID, float *u, float *v) const {
 void Disk::fillIntersection(float distance, int primID, float u, float v, Intersection *intersection) const {
     /// ----------------------------------------------------
     //* todo 填充圆环相交信息中的法线以及相交位置信息
-    //* 1.法线可以先计算出局部空间的法线，然后变换到世界空间
-    //* 2.位置信息可以根据uv计算出，同样需要变换
-    //* Write your code here.
 
+    //* 1.法线可以先计算出局部空间的法线，然后变换到世界空间
     // 计算法线
     Vector3f localNormal = Vector3f(0, 0, 1); // 圆环的法线垂直于平面
-    Vector3f worldNormal = transform.toWorldNormal(localNormal);
+    Vector3f worldNormal = transform.toWorld(localNormal);
+    intersection -> normal = normalize(worldNormal);
 
+    //* 2.位置信息可以根据uv计算出，同样需要变换
     // 计算交点位置
-    Point3f localHitPoint = Point3f(u * 2 * radius - radius, v * 2 * radius - radius, 0); // 根据 u 和 v 计算交点在局部空间的位置
+    float rho = u*phiMax;
+    float r = innerRadius + v*(radius - innerRadius);
+    Point3f localHitPoint = Point3f(r*cos(rho), r*sin(rho), 0); // 根据 u 和 v 计算交点在局部空间的位置
     Point3f worldHitPoint = transform.toWorld(localHitPoint); // 将局部空间的位置转换为世界空间
+    intersection -> position = worldHitPoint;
+    //* Write your code here.
+
+
+
+
 
     /// ----------------------------------------------------
 
