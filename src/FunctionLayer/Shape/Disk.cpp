@@ -46,7 +46,8 @@ bool Disk::rayIntersectShape(Ray &ray, int *primID, float *u, float *v) const {
     *v = (distance - innerRadius)/(radius - innerRadius);
     //* Write your code here.
 
-    return false;
+    hit = true;
+    return hit;
 }
 
 void Disk::fillIntersection(float distance, int primID, float u, float v, Intersection *intersection) const {
