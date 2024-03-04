@@ -33,25 +33,29 @@ bool Disk::rayIntersectShape(Ray &ray, int *primID, float *u, float *v) const {
         return hit;
     }
     // 角度检查
-    float abs_phi = atan(abs(hit_point[1]/hit_point[0]));
+    float abs_phi = atan2(hit_point[1],hit_point[0]);
     float base = 0;
     float phi = 0;
 
     if(hit_point[0] >= 0 && hit_point[1] >= 0){
-        base = 0;
-        phi = base + abs_phi;
+        // base = 0;
+        // phi = base + abs_phi;
+        phi = abs_phi;
     }
-    else if(hit_point[0] < 0 && hit_point[1] > 0){
-        base = 0.5*PI;
-        phi = base + (0.5*PI - abs_phi);
+    else if(hit_point[0] <= 0 && hit_point[1] >= 0){
+        // base = 0.5*PI;
+        // phi = base + (0.5*PI - abs_phi);
+        phi = abs_phi;
     }
     else if(hit_point[0] <= 0 && hit_point[1] <= 0){
-        base = PI;
-        phi = base + abs_phi;
+        // base = PI;
+        // phi = base + abs_phi;
+        phi = 2*PI + abs_phi;
     }
-    else{
-        base = 1.5*PI;
-        phi = base + (0.5*PI - abs_phi);
+    else if(hit_point[0] >= 0 && hit_point[1] <= 0){
+        // base = 1.5*PI;
+        // phi = base + (0.5*PI - abs_phi);
+        phi = 2*PI + abs_phi;
     }
 
     if(phi > phiMax){
@@ -66,8 +70,8 @@ bool Disk::rayIntersectShape(Ray &ray, int *primID, float *u, float *v) const {
     *v = (distance - innerRadius)/(radius - innerRadius);
     //* Write your code here.
 
-    hit = true;
-    return hit;
+    // hit = true;
+    return true;
 }
 
 void Disk::fillIntersection(float distance, int primID, float u, float v, Intersection *intersection) const {
