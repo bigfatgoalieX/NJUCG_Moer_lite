@@ -1,0 +1,192 @@
+[
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/main.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/main.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/main.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/CoreLayer/Math/Transform.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/CoreLayer/Math/Transform.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/CoreLayer/Math/Transform.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Acceleration/AABB.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Acceleration/AABB.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Acceleration/AABB.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Acceleration/Acceleration.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Acceleration/Acceleration.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Acceleration/Acceleration.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Acceleration/EmbreeBVH.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Acceleration/EmbreeBVH.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Acceleration/EmbreeBVH.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Acceleration/Linear.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Acceleration/Linear.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Acceleration/Linear.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Acceleration/Octree.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Acceleration/Octree.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Acceleration/Octree.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Integrator/NormalIntegrator.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Integrator/NormalIntegrator.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Integrator/NormalIntegrator.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Integrator/DirectIntegrator.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Integrator/DirectIntegrator.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Integrator/DirectIntegrator.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Integrator/WhittedIntegrator.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Integrator/WhittedIntegrator.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Integrator/WhittedIntegrator.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Camera/Camera.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Camera/Camera.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Camera/Camera.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Camera/Pinhole.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Camera/Pinhole.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Camera/Pinhole.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Scene/Scene.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Scene/Scene.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Scene/Scene.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Light/SpotLight.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Light/SpotLight.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Light/SpotLight.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Light/AreaLight.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Light/AreaLight.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Light/AreaLight.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Light/EnvironmentLight.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Light/EnvironmentLight.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Light/EnvironmentLight.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Shape/Shape.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Shape/Shape.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Shape/Shape.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Shape/Triangle.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Shape/Triangle.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Shape/Triangle.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Shape/Cube.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Shape/Cube.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Shape/Cube.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Shape/Sphere.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Shape/Sphere.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Shape/Sphere.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Shape/Parallelogram.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Shape/Parallelogram.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Shape/Parallelogram.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Texture/NormalTexture.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Texture/NormalTexture.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Texture/NormalTexture.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Texture/ImageTexture.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Texture/ImageTexture.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Texture/ImageTexture.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Texture/Texture.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Texture/Texture.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Texture/Texture.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Texture/Mipmap.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Texture/Mipmap.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Texture/Mipmap.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Material/Matte.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Material/Matte.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Material/Matte.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Material/Mirror.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Material/Mirror.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Material/Mirror.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Material/Material.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Material/Material.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Material/Material.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Sampler/IndependentSampler.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Sampler/IndependentSampler.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Sampler/IndependentSampler.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/ResourceLayer/Image.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/ResourceLayer/Image.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/ResourceLayer/Image.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/ResourceLayer/Mesh.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/ResourceLayer/Mesh.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/ResourceLayer/Mesh.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/ResourceLayer/FileUtil.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/ResourceLayer/FileUtil.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/ResourceLayer/FileUtil.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Shape/Disk.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Shape/Disk.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Shape/Disk.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Shape/Cone.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Shape/Cone.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Shape/Cone.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Shape/Cylinder.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Shape/Cylinder.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Shape/Cylinder.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Integrator/UVIntegrator.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Integrator/UVIntegrator.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Integrator/UVIntegrator.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid",
+  "command": "/usr/bin/c++  -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./src -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/json/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/./externals/embree/include -I/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader  -o CMakeFiles/Moer.dir/src/FunctionLayer/Acceleration/BVH.cpp.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Acceleration/BVH.cpp",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/src/FunctionLayer/Acceleration/BVH.cpp"
+},
+{
+  "directory": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/bulid/externals/tinyobjloader",
+  "command": "/usr/bin/c++    -o CMakeFiles/tinyobjloader.dir/tiny_obj_loader.cc.o -c /mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader/tiny_obj_loader.cc",
+  "file": "/mnt/d/NJU_undergraduate/大三下/图形绘制技术/CG_project/NJUCG_Moer_lite/externals/tinyobjloader/tiny_obj_loader.cc"
+}
+]
